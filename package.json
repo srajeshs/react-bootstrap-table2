@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-table2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
@@ -36,9 +36,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-bootstrap-table/react-bootstrap-table2/issues"
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
   },
-  "homepage": "https://github.com/react-bootstrap-table/react-bootstrap-table2#readme",
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
   "devDependencies": {
     "babel-cli": "6.26.0",
     "babel-core": "6.25.0",

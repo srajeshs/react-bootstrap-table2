@@ -1,6 +1,6 @@
 # react-bootstrap-table2-editor
 
-`react-bootstrap-table2` separate the cell edit code base to [`react-bootstrap-table2-editor`](https://github.com/react-bootstrap-table/react-bootstrap-table2/tree/develop/packages/react-bootstrap-table2-editor), so there's a little bit different when you use cell edit than `react-bootstrap-table`. In the following, we are going to show you how to enable the cell edit
+`react-bootstrap-table2` separate the cell edit code base to [`react-bootstrap-table2-editor`](https://github.com/srajeshs/react-bootstrap-table2/tree/develop/packages/react-bootstrap-table2-editor), so there's a little bit different when you use cell edit than `react-bootstrap-table`. In the following, we are going to show you how to enable the cell edit
 
 **[Live Demo For Cell Edit](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html?selectedKind=Cell%20Editing)**
 

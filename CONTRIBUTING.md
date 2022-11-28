@@ -7,13 +7,13 @@ Before opening an issue, please make sure your problem or request doesn't exist.
 * Steps to reproduce.
 * `react-bootstrap-table2` version.
 
-Additionally, asking questions and requesting new features are welcomed via [issue tracker](https://github.com/react-bootstrap-table/react-bootstrap-table2/issues).
+Additionally, asking questions and requesting new features are welcomed via [issue tracker](https://github.com/srajeshs/react-bootstrap-table2/issues).
 
 # Pull Requests
 Check [here](./docs/development.md) for getting started with development.
 
 * PR base is `develop` branch
-* We recommend filing an [issue](https://github.com/react-bootstrap-table/react-bootstrap-table2/issues) before you implement any new features.
+* We recommend filing an [issue](https://github.com/srajeshs/react-bootstrap-table2/issues) before you implement any new features.
 * Please ensure that all the test suites have passed before submitting a PR. Besides, always test the actual business logic.
 * If your PR is trying to fix a bug, please describe the details as much as you could and tag the bug number with hashtag.
 

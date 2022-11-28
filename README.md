@@ -36,7 +36,7 @@ Please check the [development guide](./docs/development.md).
 
 ```sh
 # Clone the repo
-$ git clone https://github.com/react-bootstrap-table/react-bootstrap-table2.git
+$ git clone https://github.com/srajeshs/react-bootstrap-table2.git
 
 # change dir to the cloned repo
 $ cd react-bootstrap-table2
@@ -49,4 +49,4 @@ $ yarn storybook
 
 ```
 
-**Storybook examples: [`packages/react-bootstrap-table2-example/examples`](https://github.com/react-bootstrap-table/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-example/examples)**
+**Storybook examples: [`packages/react-bootstrap-table2-example/examples`](https://github.com/srajeshs/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-example/examples)**

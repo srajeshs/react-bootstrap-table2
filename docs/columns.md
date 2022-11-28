@@ -857,7 +857,7 @@ const columns = [
 ];
 ```
 
-If you want more information, please check [here](https://github.com/react-bootstrap-table/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-editor).
+If you want more information, please check [here](https://github.com/srajeshs/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-editor).
 
 ## <a name='editorRenderer'>column.editorRenderer - [Function]</a>
 If you feel above predefined editors are not satisfied to your requirement, you can totally custom the editor via `column.editorRenderer`:
@@ -932,7 +932,7 @@ import { textFilter } from 'react-bootstrap-table2-filter';
 }
 ```
 
-For some reason of simple customization, `react-bootstrap-table2` allow you to pass some props to filter factory function. Please check [here](https://github.com/react-bootstrap-table/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-filter/README.md) for more detail tutorial.
+For some reason of simple customization, `react-bootstrap-table2` allow you to pass some props to filter factory function. Please check [here](https://github.com/srajeshs/react-bootstrap-table2/tree/master/packages/react-bootstrap-table2-filter/README.md) for more detail tutorial.
 
 ## <a name='filterValue'>column.filterValue - [Function]</a>
 Sometimes, if the cell/column value that you don't want to filter on them, you can define `filterValue` to return a actual value you wanna be filtered:

@@ -39,9 +39,9 @@
     "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
   },
   "bugs": {
-    "url": "https://github.com/react-bootstrap-table/react-bootstrap-table2/issues"
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
   },
-  "homepage": "https://github.com/react-bootstrap-table/react-bootstrap-table2#readme",
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
   "directories": {
     "test": "test"
   },

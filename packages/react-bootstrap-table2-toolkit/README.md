@@ -1,6 +1,6 @@
 # react-bootstrap-table2-toolkit
 
-`react-bootstrap-table2` support some additional features in [`react-bootstrap-table2-toolkit`](https://github.com/react-bootstrap-table/react-bootstrap-table2/tree/develop/packages/react-bootstrap-table2-toolkit).
+`react-bootstrap-table2` support some additional features in [`react-bootstrap-table2-toolkit`](https://github.com/srajeshs/react-bootstrap-table2/tree/develop/packages/react-bootstrap-table2-toolkit).
 
 In the future, this toolkit will support other feature like row delete, insert etc. Right now we only following features:
 
