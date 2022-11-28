@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table2-toolkit",
+  "name": "@srajeshs/react-bootstrap-table2-toolkit",
   "version": "2.2.0",
   "description": "The toolkit for react-bootstrap-table2",
   "main": "./lib/index.js",
@@ -28,16 +28,8 @@
     "react-component"
   ],
   "contributors": [
-    {
-      "name": "Allen Fang",
-      "email": "ayu780129@hotmail.com",
-      "url": "https://github.com/AllenFang"
-    },
-    {
-      "name": "Chun-MingChen",
-      "email": "nick830314@gmail.com",
-      "url": "https://github.com/Chun-MingChen"
-    }
+    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
+    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
   ],
   "peerDependencies": {
     "prop-types": "^15.0.0",
@@ -46,5 +38,9 @@
   },
   "dependencies": {
     "file-saver": "2.0.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+  },
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme"
 }

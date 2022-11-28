@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-table2-filter",
+  "name": "@srajeshs/react-bootstrap-table2-filter",
   "version": "1.4.0",
   "description": "it's a column filter addon for react-bootstrap-table2",
   "main": "./lib/index.js",
@@ -25,20 +25,22 @@
   ],
   "author": "AllenFang",
   "contributors": [
-    {
-      "name": "Allen Fang",
-      "email": "ayu780129@hotmail.com",
-      "url": "https://github.com/AllenFang"
-    },
-    {
-      "name": "Chun-MingChen",
-      "email": "nick830314@gmail.com",
-      "url": "https://github.com/Chun-MingChen"
-    }
+    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
+    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
   ],
   "peerDependencies": {
     "prop-types": "^15.0.0",
     "react": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0",
     "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
+  },
+  "bugs": {
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+  },
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
