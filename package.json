@@ -1,12 +1,12 @@
 {
-  "name": "@srajeshs/react-bootstrap-table2",
-  "version": "0.0.2",
-  "private": false,
+  "name": "react-bootstrap-table2",
+  "version": "0.0.1",
+  "private": true,
   "description": "Rebuilt for react-bootstrap-table",
   "main": "index.js",
   "scripts": {
     "postinstall": "lerna bootstrap",
-    "build": "gulp prod",
+    "build": "./node_modules/.bin/gulp prod",
     "lint": "eslint ./packages --ext .js --ext .jsx --ignore-path .gitignore",
     "pretest": "yarn lint --cache",
     "test": "jest",
@@ -19,12 +19,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
   },
   "author": "AllenFang",
   "contributors": [
-    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
-    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
+    {
+      "name": "Allen Fang",
+      "email": "ayu780129@hotmail.com",
+      "url": "https://github.com/AllenFang"
+    },
+    {
+      "name": "Chun-MingChen",
+      "email": "nick830314@gmail.com",
+      "url": "https://github.com/Chun-MingChen"
+    }
   ],
   "license": "MIT",
   "bugs": {
@@ -97,11 +105,5 @@
     "testMatch": [
       "**/test/**/*.test.js"
     ]
-  },
-  "directories": {
-    "doc": "docs"
-  },
-  "keywords": [
-    "react-bootstrap-table"
-  ]
+  }
 }

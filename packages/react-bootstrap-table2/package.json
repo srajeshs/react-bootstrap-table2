@@ -1,11 +1,11 @@
 {
-  "name": "react-bootstrap-table-next",
-  "version": "4.0.3",
+  "name": "@srajeshs/react-bootstrap-table-next",
+  "version": "4.2.0",
   "description": "Next generation of react-bootstrap-table",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
   },
   "license": "MIT",
   "keywords": [
@@ -24,16 +24,8 @@
   ],
   "author": "AllenFang",
   "contributors": [
-    {
-      "name": "Allen Fang",
-      "email": "ayu780129@hotmail.com",
-      "url": "https://github.com/AllenFang"
-    },
-    {
-      "name": "Chun-MingChen",
-      "email": "nick830314@gmail.com",
-      "url": "https://github.com/Chun-MingChen"
-    }
+    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
+    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
   ],
   "dependencies": {
     "classnames": "^2.2.5",
@@ -45,5 +37,15 @@
     "prop-types": "^15.0.0",
     "react": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0",
     "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
+  },
+  "bugs": {
+    "url": "https://github.com/react-bootstrap-table/react-bootstrap-table2/issues"
+  },
+  "homepage": "https://github.com/react-bootstrap-table/react-bootstrap-table2#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
